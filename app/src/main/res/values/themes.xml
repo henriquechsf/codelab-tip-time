@@ -18,5 +18,7 @@
         <item name="radioButtonStyle">@style/Widget.TipTime.CompoundButton.RadioButton</item>
         <!-- Switches -->
         <item name="switchStyle">@style/Widget.TipTime.CompoundButton.Switch</item>
+        <!-- Buttons -->
+        <item name="buttonStyle">@style/Widget.TipTime.Button</item>
     </style>
 </resources>
